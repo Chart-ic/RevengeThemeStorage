@@ -1,0 +1,24 @@
+{
+    "name": "backgroundtest",
+    "description": "yap",
+    "authors": [
+  
+        {
+            "name": "charticsensei",
+            "id": "797134468321509426"
+          
+        }
+    ],
+    "background": {
+        "blur": 4.33,
+        "url": "https://raw.githubusercontent.com/Chart-ic/RevengeThemeStorage/refs/heads/main/20250509_002442.jpg",
+        "alpha": 0.3333333
+        },
+        "plus":{
+       "version":"0",
+       "mentionLineColor": "#a297c320",
+       "iconpack":"rosiecord-plumpy"
+       
+  },
+    "spec": 2
+  }
