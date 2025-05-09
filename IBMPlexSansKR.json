@@ -1,7 +1,7 @@
 {
   "spec": 1,
   "name": "IBM Plex Sans KR",
-  "previewText": "gukbab",
+  "previewText": "The package of IBM’s typeface, IBM Plex.",
   "main": {
     "ABCGintoNord-ExtraBold": "https://github.com/IBM/plex/raw/refs/heads/master/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Bold.ttf",
     "ggsans-Bold": "https://github.com/IBM/plex/raw/refs/heads/master/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Bold.ttf",
