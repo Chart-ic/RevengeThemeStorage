@@ -10,7 +10,7 @@
         }
     ],
     "background": {
-        "blur": 1,
+        "blur": 0,
         "url": "https://raw.githubusercontent.com/Chart-ic/RevengeThemeStorage/refs/heads/main/20250509_005244.jpg",
         "alpha": 0.6666667
         },
